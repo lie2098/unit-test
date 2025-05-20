@@ -116,4 +116,10 @@ class DemoUtilTest {
     void testTimeout() {
         assertTimeout(Duration.ofSeconds(3), () -> demoUtil.checkTimeout(), "Method should execute within 3 seconds");
     }
+
+    @DisplayName("Multiply")
+    @Test
+    void testMultiply() {
+        assertEquals(12, demoUtil.multiple(3, 4), "4*3 must be 12");
+    }
 }
