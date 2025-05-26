@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe5f7579-83e3-4491-a142-607caa39cb4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lye/component/MvcTestingExampleApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lye/component/models/CollegeStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lye/component/models/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lye/component/models/StudentGrades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/lye/test/ApplicationExampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lye/component/MvcTestingExampleApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lye/component/models/CollegeStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lye/component/models/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lye/component/models/StudentGrades.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lye/test/ApplicationExampleTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2xapfPxvgiaB4kbSO2Py07bTzi0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.ApplicationExampleTest.addGradeResultsForStudentGrades.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ApplicationExampleTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ApplicationExampleTest.findGradePointAverage.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ApplicationExampleTest.name.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ApplicationExampleTest.verifyStudentArePrototypes.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.ApplicationExampleTest">
+    <configuration name="ApplicationExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-unit-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lye.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lye.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lye.test.ApplicationExampleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationExampleTest.addGradeResultsForStudentGrades" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-unit-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lye.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lye.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lye.test.ApplicationExampleTest" />
+      <option name="METHOD_NAME" value="addGradeResultsForStudentGrades" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationExampleTest.findGradePointAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-unit-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lye.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lye.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lye.test.ApplicationExampleTest" />
+      <option name="METHOD_NAME" value="findGradePointAverage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationExampleTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-unit-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lye.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lye.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lye.test.ApplicationExampleTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationExampleTest.verifyStudentArePrototypes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-unit-testing-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lye.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lye.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lye.test.ApplicationExampleTest" />
+      <option name="METHOD_NAME" value="verifyStudentArePrototypes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MvcTestingExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-boot-unit-testing-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lye.component.MvcTestingExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationExampleTest" />
+        <item itemvalue="JUnit.ApplicationExampleTest.findGradePointAverage" />
+        <item itemvalue="JUnit.ApplicationExampleTest.verifyStudentArePrototypes" />
+        <item itemvalue="JUnit.ApplicationExampleTest.addGradeResultsForStudentGrades" />
+        <item itemvalue="JUnit.ApplicationExampleTest.name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe5f7579-83e3-4491-a142-607caa39cb4b" name="Changes" comment="" />
+      <created>1748186143737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748186143737</updated>
+      <workItem from="1748186145591" duration="3202000" />
+      <workItem from="1748269473477" duration="286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
