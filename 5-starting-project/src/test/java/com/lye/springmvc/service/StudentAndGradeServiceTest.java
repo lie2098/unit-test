@@ -162,15 +162,16 @@ public class StudentAndGradeServiceTest {
 
     @Test
     void deleteGradeService() {
-        assertEquals(1, studentAndGradeService.getIdAndDeleteGrade(1, "math"), "Returns student id after delete");
-        assertEquals(1, studentAndGradeService.getIdAndDeleteGrade(1, "science"), "Returns student id after delete");
-        assertEquals(1, studentAndGradeService.getIdAndDeleteGrade(1, "history"), "Returns student id after delete");
+        assertEquals(1, studentAndGradeService.getIdAndDeleteGrade(1, 1, "math"), "Returns student id after delete");
+        assertEquals(1, studentAndGradeService.getIdAndDeleteGrade(1, 1, "science"), "Returns student id after delete");
+        assertEquals(1, studentAndGradeService.getIdAndDeleteGrade(1, 1, "history"), "Returns student id after delete");
     }
 
     @Test
     void deleteGradeServiceAndReturnStudentIdOfZero() {
-        assertEquals(0, studentAndGradeService.getIdAndDeleteGrade(0, "math"), "No student should have 0 id");
-        assertEquals(0, studentAndGradeService.getIdAndDeleteGrade(1, "literature"), "No student should have literature class");
+        assertEquals(0, studentAndGradeService.getIdAndDeleteGrade(0, 1, "math"), "No student should have 0 id");
+        assertEquals(0, studentAndGradeService.getIdAndDeleteGrade(1, 0, "math"), "No grade should have 0 id");
+        assertEquals(0, studentAndGradeService.getIdAndDeleteGrade(1, 1, "literature"), "No student should have literature class");
     }
 
     @Test
